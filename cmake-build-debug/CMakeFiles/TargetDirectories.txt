@@ -1,0 +1,3 @@
+C:/Users/Alexandr/CLionProjects/Shannon-Fano alg/cmake-build-debug/CMakeFiles/Shannon_Fano_alg.dir
+C:/Users/Alexandr/CLionProjects/Shannon-Fano alg/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexandr/CLionProjects/Shannon-Fano alg/cmake-build-debug/CMakeFiles/rebuild_cache.dir
